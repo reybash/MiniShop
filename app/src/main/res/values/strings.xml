@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">MiniShop</string>
+    <string name="mini_shop">Mini Shop\nРазработал Рубашевский</string>
+    <string name="total_items_0">Total Items: 0</string>
+    <string name="show_checked_items">Show Checked Items\nНажимает Рубашевский</string>
+    <string name="id">Id</string>
+    <string name="name">Name</string>
+    <string name="price">Price</string>
+    <string name="select">Select</string>
+    <string name="checked_items_n">Checked Items\nРубашевский Владислав</string>
+    <string name="task_info">Task Info</string>
+    <string name="task_info_text">
+        1. Разработать приложение MiniShop, состоящее из двух Activity (см. рисунки 3.3, 3.4 в источнике).\n
+        2. В первом Activity создать список ListView с Header и Footer.\n
+        3. В Footer разместить текстовое поле (TextView) для ввода количества активированных пользователем товаров, кнопку Show Checked Items для перехода в корзину товаров.\n
+        4. Реализовать кастомизированный список ListView с помощью собственного адаптера, наследующего класс BaseAdapter.\n
+        5. В каждом пункте списка отобразить следующую информацию о товаре: идентификационный номер, название, стоимость, чекбокс для возможности выбора товара пользователем.\n
+        6. В текстовом поле (TextView) Footer списка динамически отображать общее текущее количество активированных товаров.\n
+        7. При нажатии кнопки Show Checked Items реализовать переход во второе Activity с корзиной товаров.\n
+        8. Корзину товаров реализовать в виде нового кастомизированного списка с выбранными товарами.\n
+        9. Продемонстрировать работу приложения MiniShop на эмуляторе или реальном устройстве.\n
+</string>
+</resources>
